@@ -1,0 +1,14 @@
+.pageHeader, .list{
+    display: flex;
+}
+.pageHeader {
+    justify-content: center;
+}
+.list {
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.shop {
+    border: 1px solid black;
+    width: 30%;
+}
